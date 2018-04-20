@@ -1,0 +1,1569 @@
+ Group name: surface
+ Shape.  Dimension=1
+ Element: 0 0     1
+ Element: 0 0     2
+ Element: 0 0     3
+ Element: 0 0     4
+ Element: 0 0     5
+ Element: 0 0     6
+ Element: 0 0     7
+ Element: 0 0     8
+ Element: 0 0     9
+ Element: 0 0    10
+ Element: 0 0    11
+ Element: 0 0    12
+ Element: 0 0    13
+ Element: 0 0    14
+ Element: 0 0    15
+ Element: 0 0    16
+ Element: 0 0    17
+ Element: 0 0    18
+ Element: 0 0    19
+ Element: 0 0    20
+ Element: 0 0    21
+ Element: 0 0    22
+ Element: 0 0    23
+ Element: 0 0    24
+ Element: 0 0    25
+ Element: 0 0    26
+ Element: 0 0    27
+ Element: 0 0    28
+ Element: 0 0    29
+ Element: 0 0    30
+ Element: 0 0    31
+ Element: 0 0    32
+ Element: 0 0    33
+ Element: 0 0    34
+ Element: 0 0    35
+ Element: 0 0    36
+ Element: 0 0    37
+ Element: 0 0    38
+ Element: 0 0    39
+ Element: 0 0    40
+ Element: 0 0    41
+ Element: 0 0    42
+ Element: 0 0    43
+ Element: 0 0    44
+ Element: 0 0    45
+ Element: 0 0    46
+ Element: 0 0    47
+ Element: 0 0    48
+ Element: 0 0    49
+ Element: 0 0    50
+ Element: 0 0    51
+ Element: 0 0    52
+ Element: 0 0    53
+ Element: 0 0    54
+ Element: 0 0    55
+ Element: 0 0    56
+ Element: 0 0    57
+ Element: 0 0    58
+ Element: 0 0    59
+ Element: 0 0    60
+ Element: 0 0    61
+ Element: 0 0    62
+ Element: 0 0    63
+ Element: 0 0    64
+ Element: 0 0    65
+ Element: 0 0    66
+ Element: 0 0    67
+ Element: 0 0    68
+ Element: 0 0    69
+ Element: 0 0    70
+ Element: 0 0    71
+ Element: 0 0    72
+ Element: 0 0    73
+ Element: 0 0    74
+ Element: 0 0    75
+ Element: 0 0    76
+ Element: 0 0    77
+ Element: 0 0    78
+ Element: 0 0    79
+ Element: 0 0    80
+ Element: 0 0    81
+ Element: 0 0    82
+ Element: 0 0    83
+ Element: 0 0    84
+ Element: 0 0    85
+ Element: 0 0    86
+ Element: 0 0    87
+ Element: 0 0    88
+ Element: 0 0    89
+ Element: 0 0    90
+ Element: 0 0    91
+ Element: 0 0    92
+ Element: 0 0    93
+ Element: 0 0    94
+ Element: 0 0    95
+ Element: 0 0    96
+ Element: 0 0    97
+ Element: 0 0    98
+ Element: 0 0    99
+ Element: 0 0   100
+ Element: 0 0   101
+ Element: 0 0   102
+ Element: 0 0   103
+ Element: 0 0   104
+ Element: 0 0   105
+ Element: 0 0   106
+ Element: 0 0   107
+ Element: 0 0   108
+ Element: 0 0   109
+ Element: 0 0   110
+ Element: 0 0   111
+ Element: 0 0   112
+ Element: 0 0   113
+ Element: 0 0   114
+ Element: 0 0   115
+ Element: 0 0   116
+ Element: 0 0   117
+ Element: 0 0   118
+ Element: 0 0   119
+ Element: 0 0   120
+ Element: 0 0   121
+ Element: 0 0   122
+ Element: 0 0   123
+ Element: 0 0   124
+ Element: 0 0   125
+ Element: 0 0   126
+ Element: 0 0   127
+ Element: 0 0   128
+ Element: 0 0   129
+ Element: 0 0   130
+ Element: 0 0   131
+ Element: 0 0   132
+ Element: 0 0   133
+ Element: 0 0   134
+ Element: 0 0   135
+ Element: 0 0   136
+ Element: 0 0   137
+ Element: 0 0   138
+ Element: 0 0   139
+ Element: 0 0   140
+ Element: 0 0   141
+ Element: 0 0   142
+ Element: 0 0   143
+ Element: 0 0   144
+ Element: 0 0   145
+ Element: 0 0   146
+ Element: 0 0   147
+ Element: 0 0   148
+ Element: 0 0   149
+ Element: 0 0   150
+ Shape.  Dimension=2
+ #Scale factor sets= 1
+   c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=           3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+   x.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   y.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   z.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+ Element:            1 0 0
+   Faces: 
+   0 0   134
+   0 0   145
+   0 0     0
+   0 0   135
+   Nodes:
+              101           79           93
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.5528688351326986E+02   0.5528688351326986E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.4288473153796726E+02   0.4288473153796726E+02   0.1000000000000000E+01   0.2959976048735416E+02
+   0.3966782264238613E+02   0.1174158049269474E+04   0.1000000000000000E+01   0.2943749491337920E+02   0.3266120590246422E+02
+   0.9614640826186212E+03
+ #Scale factor sets= 1
+   c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=           4
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+   x.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   y.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   z.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+ Element:            2 0 0
+   Faces: 
+   0 0   113
+   0 0   136
+   0 0   135
+   0 0   114
+   Nodes:
+               79           93           67           82
+   Scale factors:
+       0.1000000000000000E+01   0.2959976048735416E+02   0.3966782264238613E+02   0.1174158049269474E+04   0.1000000000000000E+01
+   0.2943749491337920E+02   0.3266120590246422E+02   0.9614640826186212E+03   0.1000000000000000E+01   0.3998672582735728E+02
+   0.3091489651917384E+02   0.1236185491093326E+04   0.1000000000000000E+01   0.3474060204365293E+02   0.2152219119797026E+02
+   0.7476938795160946E+03
+ #Scale factor sets= 1
+   c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=           3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+   x.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   y.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   z.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+ Element:            3 0 0
+   Faces: 
+   0 0   145
+   0 0   150
+   0 0     0
+   0 0   146
+   Nodes:
+              101           93          100
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.4288473153796726E+02   0.4288473153796726E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.4600868937201223E+02   0.4600868937201223E+02   0.1000000000000000E+01   0.2943749491337920E+02
+   0.3266120590246422E+02   0.9614640826186212E+03   0.1000000000000000E+01   0.2080942053315423E+02   0.3638027207338817E+02
+   0.7570523806857012E+03
+ Element:            4 0 0
+   Faces: 
+   0 0   150
+   0 0   148
+   0 0     0
+   0 0   149
+   Nodes:
+              101          100           96
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.4600868937201223E+02   0.4600868937201223E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.3891457573970885E+02   0.3891457573970885E+02   0.1000000000000000E+01   0.2080942053315423E+02
+   0.3638027207338817E+02   0.7570523806857012E+03   0.1000000000000000E+01   0.2000530609636484E+02   0.3954469823638769E+02
+   0.7911037927073146E+03
+ Element:            5 0 0
+   Faces: 
+   0 0   148
+   0 0   141
+   0 0     0
+   0 0   142
+   Nodes:
+              101           96           87
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.3891457573970885E+02   0.3891457573970885E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.4016419420646743E+02   0.4016419420646743E+02   0.1000000000000000E+01   0.2000530609636484E+02
+   0.3954469823638769E+02   0.7911037927073146E+03   0.1000000000000000E+01   0.2265638524376055E+02   0.3514759020080906E+02
+   0.7963173439793535E+03
+ Element:            6 0 0
+   Faces: 
+   0 0   141
+   0 0   138
+   0 0     0
+   0 0   139
+   Nodes:
+              101           87           83
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.4016419420646743E+02   0.4016419420646743E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.4428939158174921E+02   0.4428939158174921E+02   0.1000000000000000E+01   0.2265638524376055E+02
+   0.3514759020080906E+02   0.7963173439793535E+03   0.1000000000000000E+01   0.1989764678775077E+02   0.3980440435779359E+02
+   0.7920139785081844E+03
+ Element:            7 0 0
+   Faces: 
+   0 0   138
+   0 0   129
+   0 0     0
+   0 0   130
+   Nodes:
+              101           83           76
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.4428939158174921E+02   0.4428939158174921E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.5403991238400351E+02   0.5403991238400351E+02   0.1000000000000000E+01   0.1989764678775077E+02
+   0.3980440435779359E+02   0.7920139785081844E+03   0.1000000000000000E+01   0.1943496001327420E+02   0.4509638245359690E+02
+   0.8764463897289759E+03
+ Element:            8 0 0
+   Faces: 
+   0 0   129
+   0 0   121
+   0 0     0
+   0 0   122
+   Nodes:
+              101           76           71
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.5403991238400351E+02   0.5403991238400351E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.6881232377675819E+02   0.6881232377675819E+02   0.1000000000000000E+01   0.1943496001327420E+02
+   0.4509638245359690E+02   0.8764463897289761E+03   0.1000000000000000E+01   0.2050625007950602E+02   0.5368072281406582E+02
+   0.1100790326473878E+04
+ Element:            9 0 0
+   Faces: 
+   0 0   121
+   0 0   101
+   0 0     0
+   0 0   102
+   Nodes:
+              101           71           59
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.6881232377675819E+02   0.6881232377675819E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.7976727475244616E+02   0.7976727475244616E+02   0.1000000000000000E+01   0.2050625007950602E+02
+   0.5368072281406582E+02   0.1100790326473878E+04   0.1000000000000000E+01   0.2046265071010702E+02   0.5354342890828230E+02
+   0.1095640483571628E+04
+ Element:           10 0 0
+   Faces: 
+   0 0   101
+   0 0   123
+   0 0     0
+   0 0   103
+   Nodes:
+              101           59           72
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.7976727475244616E+02   0.7976727475244616E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.6846988107556710E+02   0.6846988107556710E+02   0.1000000000000000E+01   0.2046265071010702E+02
+   0.5354342890828230E+02   0.1095640483571628E+04   0.1000000000000000E+01   0.2311647911064933E+02   0.5150535195421230E+02
+   0.1190622392536190E+04
+ Element:           11 0 0
+   Faces: 
+   0 0   123
+   0 0   134
+   0 0     0
+   0 0   124
+   Nodes:
+              101           72           79
+   Scale factors:
+       0.1000000000000000E+01   0.1000000000000000E+01   0.6846988107556710E+02   0.6846988107556710E+02   0.1000000000000000E+01
+   0.1000000000000000E+01   0.5528688351326986E+02   0.5528688351326986E+02   0.1000000000000000E+01   0.2311647911064933E+02
+   0.5150535195421230E+02   0.1190622392536190E+04   0.1000000000000000E+01   0.2959976048735416E+02   0.3966782264238613E+02
+   0.1174158049269474E+04
+ #Scale factor sets= 1
+   c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=           4
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+   x.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   y.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   z.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+ Element:           12 0 0
+   Faces: 
+   0 0    97
+   0 0   125
+   0 0   114
+   0 0    98
+   Nodes:
+               67           82           57           74
+   Scale factors:
+       0.1000000000000000E+01   0.3998672582735728E+02   0.3091489651917384E+02   0.1236185491093326E+04   0.1000000000000000E+01
+   0.3474060204365293E+02   0.2152219119797026E+02   0.7476938795160946E+03   0.1000000000000000E+01   0.5985859663433595E+02
+   0.4155072656874059E+02   0.2487168181541828E+04   0.1000000000000000E+01   0.4522160919185454E+02   0.2766935756577221E+02
+   0.1251252874429035E+04
+ Element:           13 0 0
+   Faces: 
+   0 0    68
+   0 0   105
+   0 0    98
+   0 0    69
+   Nodes:
+               57           74           41           61
+   Scale factors:
+       0.1000000000000000E+01   0.5985859663433595E+02   0.4155072656874059E+02   0.2487168181541828E+04   0.1000000000000000E+01
+   0.4522160919185454E+02   0.2766935756577221E+02   0.1251252874429035E+04   0.1000000000000000E+01   0.6897813817986558E+02
+   0.3755178720903863E+02   0.2590252367005975E+04   0.1000000000000000E+01   0.5822225133092951E+02   0.3263650042032754E+02
+   0.1900170530034296E+04
+ Element:           14 0 0
+   Faces: 
+   0 0    38
+   0 0    89
+   0 0    69
+   0 0    39
+   Nodes:
+               41           61           18           52
+   Scale factors:
+       0.1000000000000000E+01   0.6897813817986558E+02   0.3755178720903863E+02   0.2590252367005975E+04   0.1000000000000000E+01
+   0.5822225133092951E+02   0.3263650042032754E+02   0.1900170530034296E+04   0.1000000000000000E+01   0.5869436940887878E+02
+   0.3725130783620380E+02   0.2186442023102007E+04   0.1000000000000000E+01   0.5558527794829740E+02   0.3057756760690627E+02
+   0.1699662594412740E+04
+ Element:           15 0 0
+   Faces: 
+   0 0    19
+   0 0    66
+   0 0    39
+   0 0    20
+   Nodes:
+               18           52            7           40
+   Scale factors:
+       0.1000000000000000E+01   0.5869436940887878E+02   0.3725130783620380E+02   0.2186442023102007E+04   0.1000000000000000E+01
+   0.5558527794829740E+02   0.3057756760690627E+02   0.1699662594412740E+04   0.1000000000000000E+01   0.3556264799466446E+02
+   0.4368260874133450E+02   0.1553469238156732E+04   0.1000000000000000E+01   0.4203966183839056E+02   0.3176752992054552E+02
+   0.1335496215300688E+04
+ Element:           16 0 0
+   Faces: 
+   0 0    21
+   0 0    64
+   0 0    20
+   0 0    44
+   Nodes:
+                7           40           21           37
+   Scale factors:
+       0.1000000000000000E+01   0.3556264799466446E+02   0.4368260874133450E+02   0.1553469238156732E+04   0.1000000000000000E+01
+   0.4203966183839056E+02   0.3176752992054552E+02   0.1335496215300688E+04   0.1000000000000000E+01   0.1765236405313829E+02
+   0.5753890297928495E+02   0.1015697662608541E+04   0.1000000000000000E+01   0.2578181867423045E+02   0.5121023746129738E+02
+   0.1320293056491453E+04
+ #Scale factor sets= 1
+   c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=           3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+   x.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   y.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   z.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+ Element:           17 0 0
+   Faces: 
+   0 0    45
+   0 0    46
+   0 0    44
+   0 0     0
+   Nodes:
+               21           37           23
+   Scale factors:
+       0.1000000000000000E+01   0.1765236405313829E+02   0.5753890297928495E+02   0.1015697662608541E+04   0.1000000000000000E+01
+   0.2578181867423045E+02   0.5121023746129738E+02   0.1320293056491453E+04   0.1000000000000000E+01   0.1000000000000000E+01
+   0.7243205160086714E+02   0.7243205160086714E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.6949956245722628E+02
+   0.6949956245722628E+02
+ Element:           18 0 0
+   Faces: 
+   0 0    46
+   0 0    47
+   0 0    65
+   0 0     0
+   Nodes:
+               37           46           23
+   Scale factors:
+       0.1000000000000000E+01   0.2578181867423045E+02   0.5121023746129738E+02   0.1320293056491453E+04   0.1000000000000000E+01
+   0.4728725703414516E+02   0.4714931488855378E+02   0.2229561772118890E+04   0.1000000000000000E+01   0.1000000000000000E+01
+   0.6949956245722628E+02   0.6949956245722628E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.6622467767466985E+02
+   0.6622467767466985E+02
+ Element:           19 0 0
+   Faces: 
+   0 0    47
+   0 0    48
+   0 0    77
+   0 0     0
+   Nodes:
+               46           60           23
+   Scale factors:
+       0.1000000000000000E+01   0.4728725703414516E+02   0.4714931488855378E+02   0.2229561772118890E+04   0.1000000000000000E+01
+   0.5431234476968253E+02   0.5267063920244816E+02   0.2860665915602920E+04   0.1000000000000000E+01   0.1000000000000000E+01
+   0.6622467767466985E+02   0.6622467767466985E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.7229762251424232E+02
+   0.7229762251424232E+02
+ Element:           20 0 0
+   Faces: 
+   0 0    48
+   0 0    49
+   0 0    70
+   0 0     0
+   Nodes:
+               60           43           23
+   Scale factors:
+       0.1000000000000000E+01   0.5431234476968253E+02   0.5267063920244816E+02   0.2860665915602920E+04   0.1000000000000000E+01
+   0.4243202007992504E+02   0.3658232378219117E+02   0.1552261897296255E+04   0.1000000000000000E+01   0.1000000000000000E+01
+   0.7229762251424232E+02   0.7229762251424232E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.4959364014806734E+02
+   0.4959364014806734E+02
+ Element:           21 0 0
+   Faces: 
+   0 0    49
+   0 0    50
+   0 0    56
+   0 0     0
+   Nodes:
+               43           32           23
+   Scale factors:
+       0.1000000000000000E+01   0.4243202007992504E+02   0.3658232378219117E+02   0.1552261897296255E+04   0.1000000000000000E+01
+   0.3182196078329705E+02   0.3239378885491580E+02   0.1030833878563536E+04   0.1000000000000000E+01   0.1000000000000000E+01
+   0.4959364014806734E+02   0.4959364014806734E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.3947863252768558E+02
+   0.3947863252768558E+02
+ Element:           22 0 0
+   Faces: 
+   0 0    23
+   0 0    42
+   0 0    22
+   0 0     0
+   Nodes:
+                8           20           23
+   Scale factors:
+       0.1000000000000000E+01   0.1448974071669543E+02   0.5361073009230603E+02   0.7768055786702554E+03   0.1000000000000000E+01
+   0.1408750079111388E+02   0.5849713459520568E+02   0.8240784298878549E+03   0.1000000000000000E+01   0.1000000000000000E+01
+   0.6753243885679981E+02   0.6753243885679981E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.7183659268849186E+02
+   0.7183659268849186E+02
+ Element:           23 0 0
+   Faces: 
+   0 0    42
+   0 0    45
+   0 0    43
+   0 0     0
+   Nodes:
+               20           21           23
+   Scale factors:
+       0.1000000000000000E+01   0.1408750079111388E+02   0.5849713459520568E+02   0.8240784298878549E+03   0.1000000000000000E+01
+   0.1765236405313829E+02   0.5753890297928495E+02   0.1015697662608541E+04   0.1000000000000000E+01   0.1000000000000000E+01
+   0.7183659268849186E+02   0.7183659268849186E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.7243205160086714E+02
+   0.7243205160086714E+02
+ Element:           24 0 0
+   Faces: 
+   0 0    25
+   0 0    23
+   0 0    24
+   0 0     0
+   Nodes:
+                9            8           23
+   Scale factors:
+       0.1000000000000000E+01   0.2166497968034707E+02   0.4973573053823522E+02   0.1077523591498083E+04   0.1000000000000000E+01
+   0.1448974071669543E+02   0.5361073009230603E+02   0.7768055786702554E+03   0.1000000000000000E+01   0.1000000000000000E+01
+   0.6526915870776506E+02   0.6526915870776506E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.6753243885679981E+02
+   0.6753243885679981E+02
+ #Scale factor sets= 1
+   c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=           4
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+   x.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   y.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   z.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+ Element:           25 0 0
+   Faces: 
+   0 0   136
+   0 0   143
+   0 0   146
+   0 0   137
+   Nodes:
+               93          100           82           89
+   Scale factors:
+       0.1000000000000000E+01   0.2943749491337920E+02   0.3266120590246422E+02   0.9614640826186212E+03   0.1000000000000000E+01
+   0.2080942053315423E+02   0.3638027207338817E+02   0.7570523806857012E+03   0.1000000000000000E+01   0.3474060204365293E+02
+   0.2152219119797026E+02   0.7476938795160946E+03   0.1000000000000000E+01   0.2908376017667787E+02   0.2596227081238415E+02
+   0.7550804579493442E+03
+ Element:           26 0 0
+   Faces: 
+   0 0   143
+   0 0   147
+   0 0   149
+   0 0   144
+   Nodes:
+              100           96           89           95
+   Scale factors:
+       0.1000000000000000E+01   0.2080942053315423E+02   0.3638027207338817E+02   0.7570523806857012E+03   0.1000000000000000E+01
+   0.2000530609636484E+02   0.3954469823638769E+02   0.7911037927073146E+03   0.1000000000000000E+01   0.2908376017667786E+02
+   0.2596227081238415E+02   0.7550804579493441E+03   0.1000000000000000E+01   0.3739424960069999E+02   0.3222205414972665E+02
+   0.1204919535522149E+04
+ Element:           27 0 0
+   Faces: 
+   0 0   147
+   0 0   127
+   0 0   142
+   0 0   128
+   Nodes:
+               96           87           95           75
+   Scale factors:
+       0.1000000000000000E+01   0.2000530609636484E+02   0.3954469823638769E+02   0.7911037927073146E+03   0.1000000000000000E+01
+   0.2265638524376055E+02   0.3514759020080906E+02   0.7963173439793535E+03   0.1000000000000000E+01   0.3739424960069999E+02
+   0.3222205414972665E+02   0.1204919535522149E+04   0.1000000000000000E+01   0.3860065084251067E+02   0.2668468074613728E+02
+   0.1030046044325512E+04
+ Element:           28 0 0
+   Faces: 
+   0 0   127
+   0 0   119
+   0 0   139
+   0 0   120
+   Nodes:
+               87           83           75           70
+   Scale factors:
+       0.1000000000000000E+01   0.2265638524376055E+02   0.3514759020080906E+02   0.7963173439793535E+03   0.1000000000000000E+01
+   0.1989764678775077E+02   0.3980440435779359E+02   0.7920139785081844E+03   0.1000000000000000E+01   0.3860065084251067E+02
+   0.2668468074613728E+02   0.1030046044325512E+04   0.1000000000000000E+01   0.2681918106310457E+02   0.3160683784376272E+02
+   0.8476695069640577E+03
+ Element:           29 0 0
+   Faces: 
+   0 0   119
+   0 0   107
+   0 0   130
+   0 0   108
+   Nodes:
+               83           76           70           62
+   Scale factors:
+       0.1000000000000000E+01   0.1989764678775077E+02   0.3980440435779359E+02   0.7920139785081844E+03   0.1000000000000000E+01
+   0.1943496001327420E+02   0.4509638245359690E+02   0.8764463897289759E+03   0.1000000000000000E+01   0.2681918106310457E+02
+   0.3160683784376272E+02   0.8476695069640577E+03   0.1000000000000000E+01   0.2777242502286506E+02   0.3961395216597608E+02
+   0.1100175516388934E+04
+ Element:           30 0 0
+   Faces: 
+   0 0   107
+   0 0    93
+   0 0   122
+   0 0    94
+   Nodes:
+               76           71           62           54
+   Scale factors:
+       0.1000000000000000E+01   0.1943496001327420E+02   0.4509638245359690E+02   0.8764463897289761E+03   0.1000000000000000E+01
+   0.2050625007950602E+02   0.5368072281406582E+02   0.1100790326473878E+04   0.1000000000000000E+01   0.2777242502286506E+02
+   0.3961395216597608E+02   0.1100175516388934E+04   0.1000000000000000E+01   0.2629157990564202E+02   0.4789522427595675E+02
+   0.1259241116149963E+04
+ Element:           31 0 0
+   Faces: 
+   0 0    93
+   0 0    74
+   0 0   102
+   0 0    75
+   Nodes:
+               71           59           54           45
+   Scale factors:
+       0.1000000000000000E+01   0.2050625007950602E+02   0.5368072281406582E+02   0.1100790326473878E+04   0.1000000000000000E+01
+   0.2046265071010702E+02   0.5354342890828230E+02   0.1095640483571628E+04   0.1000000000000000E+01   0.2629157990564202E+02
+   0.4789522427595675E+02   0.1259241116149963E+04   0.1000000000000000E+01   0.2281629184921967E+02   0.4255677482521310E+02
+   0.9709877945735866E+03
+ Element:           32 0 0
+   Faces: 
+   0 0    74
+   0 0    87
+   0 0   103
+   0 0    76
+   Nodes:
+               59           72           45           51
+   Scale factors:
+       0.1000000000000000E+01   0.2046265071010702E+02   0.5354342890828230E+02   0.1095640483571628E+04   0.1000000000000000E+01
+   0.2311647911064933E+02   0.5150535195421230E+02   0.1190622392536190E+04   0.1000000000000000E+01   0.2281629184921967E+02
+   0.4255677482521310E+02   0.9709877945735865E+03   0.1000000000000000E+01   0.3301424110553105E+02   0.3921024431124427E+02
+   0.1294496459498196E+04
+ Element:           33 0 0
+   Faces: 
+   0 0    87
+   0 0   113
+   0 0   124
+   0 0    88
+   Nodes:
+               72           79           51           67
+   Scale factors:
+       0.1000000000000000E+01   0.2311647911064933E+02   0.5150535195421230E+02   0.1190622392536190E+04   0.1000000000000000E+01
+   0.2959976048735416E+02   0.3966782264238613E+02   0.1174158049269474E+04   0.1000000000000000E+01   0.3301424110553104E+02
+   0.3921024431124427E+02   0.1294496459498195E+04   0.1000000000000000E+01   0.3998672582735728E+02   0.3091489651917384E+02
+   0.1236185491093326E+04
+ #Scale factor sets= 1
+   c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=           3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+   x.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   y.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   z.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+ Element:           34 0 0
+   Faces: 
+   0 0    28
+   0 0    25
+   0 0    26
+   0 0     0
+   Nodes:
+               11            9           23
+   Scale factors:
+       0.1000000000000000E+01   0.2580722281476705E+02   0.4577231898184266E+02   0.1181256434713005E+04   0.1000000000000000E+01
+   0.2166497968034707E+02   0.4973573053823522E+02   0.1077523591498083E+04   0.1000000000000000E+01   0.1000000000000000E+01
+   0.5281863517052274E+02   0.5281863517052274E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.6526915870776506E+02
+   0.6526915870776506E+02
+ Element:           35 0 0
+   Faces: 
+   0 0    50
+   0 0    28
+   0 0    29
+   0 0     0
+   Nodes:
+               32           11           23
+   Scale factors:
+       0.1000000000000000E+01   0.3182196078329706E+02   0.3239378885491580E+02   0.1030833878563536E+04   0.1000000000000000E+01
+   0.2580722281476705E+02   0.4577231898184266E+02   0.1181256434713005E+04   0.1000000000000000E+01   0.1000000000000000E+01
+   0.3947863252768558E+02   0.3947863252768558E+02   0.1000000000000000E+01   0.1000000000000000E+01   0.5281863517052274E+02
+   0.5281863517052274E+02
+ #Scale factor sets= 1
+   c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=           4
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+   x.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   y.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+   z.  c.Hermite*c.Hermite, no modify, standard node based.
+     #Nodes= 4
+      1.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   1   2   3   4
+      2.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   5   6   7   8
+      3.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:   9  10  11  12
+      4.  #Values=4
+       Value indices:     1   2   3   4
+       Scale factor indices:  13  14  15  16
+ Element:           36 0 0
+   Faces: 
+   0 0   125
+   0 0   131
+   0 0   137
+   0 0   126
+   Nodes:
+               82           89           74           77
+   Scale factors:
+       0.1000000000000000E+01   0.3474060204365293E+02   0.2152219119797026E+02   0.7476938795160946E+03   0.1000000000000000E+01
+   0.2908376017667787E+02   0.2596227081238415E+02   0.7550804579493442E+03   0.1000000000000000E+01   0.4522160919185454E+02
+   0.2766935756577221E+02   0.1251252874429035E+04   0.1000000000000000E+01   0.3045631367061771E+02   0.2447643581457140E+02
+   0.7454620067073280E+03
+ Element:           37 0 0
+   Faces: 
+   0 0   131
+   0 0   140
+   0 0   144
+   0 0   132
+   Nodes:
+               89           95           77           86
+   Scale factors:
+       0.1000000000000000E+01   0.2908376017667786E+02   0.2596227081238415E+02   0.7550804579493441E+03   0.1000000000000000E+01
+   0.3739424960069999E+02   0.3222205414972665E+02   0.1204919535522149E+04   0.1000000000000000E+01   0.3045631367061772E+02
+   0.2447643581457140E+02   0.7454620067073281E+03   0.1000000000000000E+01   0.4237018938694727E+02   0.2159159081963153E+02
+   0.9148397921932599E+03
+ Element:           38 0 0
+   Faces: 
+   0 0   140
+   0 0   117
+   0 0   128
+   0 0   118
+   Nodes:
+               95           75           86           69
+   Scale factors:
+       0.1000000000000000E+01   0.3739424960069999E+02   0.3222205414972665E+02   0.1204919535522149E+04   0.1000000000000000E+01
+   0.3860065084251067E+02   0.2668468074613728E+02   0.1030046044325512E+04   0.1000000000000000E+01   0.4237018938694728E+02
+   0.2159159081963153E+02   0.9148397921932601E+03   0.1000000000000000E+01   0.4662734045853128E+02   0.2361033277090092E+02
+   0.1100887024448015E+04
+ Element:           39 0 0
+   Faces: 
+   0 0   117
+   0 0    95
+   0 0   120
+   0 0    96
+   Nodes:
+               75           70           69           56
+   Scale factors:
+       0.1000000000000000E+01   0.3860065084251067E+02   0.2668468074613728E+02   0.1030046044325512E+04   0.1000000000000000E+01
+   0.2681918106310457E+02   0.3160683784376272E+02   0.8476695069640577E+03   0.1000000000000000E+01   0.4662734045853128E+02
+   0.2361033277090092E+02   0.1100887024448015E+04   0.1000000000000000E+01   0.3570134916955089E+02   0.2920760670499093E+02
+   0.1042750965381797E+04
+ Element:           40 0 0
+   Faces: 
+   0 0    95
+   0 0    72
+   0 0   108
+   0 0    73
+   Nodes:
+               70           62           56           44
+   Scale factors:
+       0.1000000000000000E+01   0.2681918106310457E+02   0.3160683784376272E+02   0.8476695069640577E+03   0.1000000000000000E+01
+   0.2777242502286506E+02   0.3961395216597609E+02   0.1100175516388934E+04   0.1000000000000000E+01   0.3570134916955089E+02
+   0.2920760670499093E+02   0.1042750965381797E+04   0.1000000000000000E+01   0.4279528027644266E+02   0.3646482661569896E+02
+   0.1560522475250723E+04
+ Element:           41 0 0
+   Faces: 
+   0 0    72
+   0 0    57
+   0 0    94
+   0 0    58
+   Nodes:
+               62           54           44           33
+   Scale factors:
+       0.1000000000000000E+01   0.2777242502286506E+02   0.3961395216597609E+02   0.1100175516388934E+04   0.1000000000000000E+01
+   0.2629157990564202E+02   0.4789522427595676E+02   0.1259241116149963E+04   0.1000000000000000E+01   0.4279528027644266E+02
+   0.3646482661569896E+02   0.1560522475250723E+04   0.1000000000000000E+01   0.4559289317228799E+02   0.4547446145291779E+02
+   0.2073312263090209E+04
+ Element:           42 0 0
+   Faces: 
+   0 0    57
+   0 0    60
+   0 0    75
+   0 0    59
+   Nodes:
+               54           45           33           35
+   Scale factors:
+       0.1000000000000000E+01   0.2629157990564202E+02   0.4789522427595676E+02   0.1259241116149963E+04   0.1000000000000000E+01
+   0.2281629184921967E+02   0.4255677482521311E+02   0.9709877945735867E+03   0.1000000000000000E+01   0.4559289317228799E+02
+   0.4547446145291779E+02   0.2073312263090209E+04   0.1000000000000000E+01   0.4428260827316282E+02   0.4854664224901515E+02
+   0.2149771941690514E+04
+ Element:           43 0 0
+   Faces: 
+   0 0    60
+   0 0    81
+   0 0    76
+   0 0    61
+   Nodes:
+               45           51           35           48
+   Scale factors:
+       0.1000000000000000E+01   0.2281629184921967E+02   0.4255677482521311E+02   0.9709877945735866E+03   0.1000000000000000E+01
+   0.3301424110553105E+02   0.3921024431124427E+02   0.1294496459498196E+04   0.1000000000000000E+01   0.4428260827316282E+02
+   0.4854664224901515E+02   0.2149771941690514E+04   0.1000000000000000E+01   0.5513409839244972E+02   0.3854974056470080E+02
+   0.2125405189297624E+04
+ Element:           44 0 0
+   Faces: 
+   0 0    81
+   0 0    97
+   0 0    88
+   0 0    82
+   Nodes:
+               51           67           48           57
+   Scale factors:
+       0.1000000000000000E+01   0.3301424110553104E+02   0.3921024431124427E+02   0.1294496459498195E+04   0.1000000000000000E+01
+   0.3998672582735728E+02   0.3091489651917384E+02   0.1236185491093326E+04   0.1000000000000000E+01   0.5513409839244972E+02
+   0.3854974056470080E+02   0.2125405189297624E+04   0.1000000000000000E+01   0.5985859663433595E+02   0.4155072656874059E+02
+   0.2487168181541828E+04
+ Element:           47 0 0
+   Faces: 
+   0 0   105
+   0 0   115
+   0 0   126
+   0 0   106
+   Nodes:
+               74           77           61           68
+   Scale factors:
+       0.1000000000000000E+01   0.4522160919185454E+02   0.2766935756577221E+02   0.1251252874429035E+04   0.1000000000000000E+01
+   0.3045631367061771E+02   0.2447643581457140E+02   0.7454620067073280E+03   0.1000000000000000E+01   0.5822225133092951E+02
+   0.3263650042032754E+02   0.1900170530034296E+04   0.1000000000000000E+01   0.3144907390434412E+02   0.2612557136342163E+02
+   0.8216250246014633E+03
+ Element:           48 0 0
+   Faces: 
+   0 0   115
+   0 0   133
+   0 0   132
+   0 0   116
+   Nodes:
+               77           86           68           78
+   Scale factors:
+       0.1000000000000000E+01   0.3045631367061772E+02   0.2447643581457140E+02   0.7454620067073281E+03   0.1000000000000000E+01
+   0.4237018938694727E+02   0.2159159081963153E+02   0.9148397921932599E+03   0.1000000000000000E+01   0.3144907390434412E+02
+   0.2612557136342163E+02   0.8216250246014633E+03   0.1000000000000000E+01   0.3896732085111396E+02   0.2588577104334711E+02
+   0.1008699145724582E+04
+ Element:           49 0 0
+   Faces: 
+   0 0   133
+   0 0   109
+   0 0   118
+   0 0   110
+   Nodes:
+               86           69           78           63
+   Scale factors:
+       0.1000000000000000E+01   0.4237018938694728E+02   0.2159159081963153E+02   0.9148397921932601E+03   0.1000000000000000E+01
+   0.4662734045853128E+02   0.2361033277090092E+02   0.1100887024448015E+04   0.1000000000000000E+01   0.3896732085111396E+02
+   0.2588577104334711E+02   0.1008699145724582E+04   0.1000000000000000E+01   0.4968802565215722E+02   0.2342146686693544E+02
+   0.1163766446495438E+04
+ Element:           50 0 0
+   Faces: 
+   0 0   109
+   0 0    79
+   0 0    96
+   0 0    80
+   Nodes:
+               69           56           63           47
+   Scale factors:
+       0.1000000000000000E+01   0.4662734045853128E+02   0.2361033277090092E+02   0.1100887024448015E+04   0.1000000000000000E+01
+   0.3570134916955089E+02   0.2920760670499093E+02   0.1042750965381797E+04   0.1000000000000000E+01   0.4968802565215722E+02
+   0.2342146686693544E+02   0.1163766446495438E+04   0.1000000000000000E+01   0.4500220322747647E+02   0.3296661625374132E+02
+   0.1483570364373096E+04
+ Element:           51 0 0
+   Faces: 
+   0 0    79
+   0 0    54
+   0 0    73
+   0 0    55
+   Nodes:
+               56           44           47           27
+   Scale factors:
+       0.1000000000000000E+01   0.3570134916955089E+02   0.2920760670499093E+02   0.1042750965381797E+04   0.1000000000000000E+01
+   0.4279528027644266E+02   0.3646482661569896E+02   0.1560522475250723E+04   0.1000000000000000E+01   0.4500220322747647E+02
+   0.3296661625374132E+02   0.1483570364373096E+04   0.1000000000000000E+01   0.4164162421317124E+02   0.2671510566227239E+02
+   0.1112460390803510E+04
+ Element:           52 0 0
+   Faces: 
+   0 0    54
+   0 0    36
+   0 0    58
+   0 0    37
+   Nodes:
+               44           33           27           15
+   Scale factors:
+       0.1000000000000000E+01   0.4279528027644266E+02   0.3646482661569896E+02   0.1560522475250723E+04   0.1000000000000000E+01
+   0.4559289317228799E+02   0.4547446145291779E+02   0.2073312263090209E+04   0.1000000000000000E+01   0.4164162421317124E+02
+   0.2671510566227239E+02   0.1112460390803510E+04   0.1000000000000000E+01   0.4110710304160276E+02   0.2480148729483577E+02
+   0.1019517293813816E+04
+ Element:           53 0 0
+   Faces: 
+   0 0    36
+   0 0    16
+   0 0    59
+   0 0    17
+   Nodes:
+               33           35           15            6
+   Scale factors:
+       0.1000000000000000E+01   0.4559289317228799E+02   0.4547446145291779E+02   0.2073312263090209E+04   0.1000000000000000E+01
+   0.4428260827316282E+02   0.4854664224901515E+02   0.2149771941690514E+04   0.1000000000000000E+01   0.4110710304160275E+02
+   0.2480148729483577E+02   0.1019517293813816E+04   0.1000000000000000E+01   0.4144258858197207E+02   0.3576237036796115E+02
+   0.1482085201875523E+04
+ Element:           54 0 0
+   Faces: 
+   0 0    16
+   0 0    40
+   0 0    61
+   0 0    18
+   Nodes:
+               35           48            6           19
+   Scale factors:
+       0.1000000000000000E+01   0.4428260827316282E+02   0.4854664224901515E+02   0.2149771941690514E+04   0.1000000000000000E+01
+   0.5513409839244972E+02   0.3854974056470080E+02   0.2125405189297624E+04   0.1000000000000000E+01   0.4144258858197207E+02
+   0.3576237036796115E+02   0.1482085201875523E+04   0.1000000000000000E+01   0.4990057208038755E+02   0.3526359460742755E+02
+   0.1759673544521504E+04
+ Element:           55 0 0
+   Faces: 
+   0 0    40
+   0 0    68
+   0 0    82
+   0 0    41
+   Nodes:
+               48           57           19           41
+   Scale factors:
+       0.1000000000000000E+01   0.5513409839244972E+02   0.3854974056470080E+02   0.2125405189297624E+04   0.1000000000000000E+01
+   0.5985859663433595E+02   0.4155072656874059E+02   0.2487168181541828E+04   0.1000000000000000E+01   0.4990057208038755E+02
+   0.3526359460742755E+02   0.1759673544521504E+04   0.1000000000000000E+01   0.6897813817986560E+02   0.3755178720903863E+02
+   0.2590252367005976E+04
+ Element:           58 0 0
+   Faces: 
+   0 0    89
+   0 0    99
+   0 0   106
+   0 0    90
+   Nodes:
+               61           68           52           58
+   Scale factors:
+       0.1000000000000000E+01   0.5822225133092951E+02   0.3263650042032754E+02   0.1900170530034296E+04   0.1000000000000000E+01
+   0.3144907390434412E+02   0.2612557136342163E+02   0.8216250246014633E+03   0.1000000000000000E+01   0.5558527794829740E+02
+   0.3057756760690627E+02   0.1699662594412740E+04   0.1000000000000000E+01   0.3331537750259171E+02   0.2864396637138962E+02
+   0.9542845528343873E+03
+ Element:           59 0 0
+   Faces: 
+   0 0    99
+   0 0   112
+   0 0   116
+   0 0   100
+   Nodes:
+               68           78           58           66
+   Scale factors:
+       0.1000000000000000E+01   0.3144907390434412E+02   0.2612557136342163E+02   0.8216250246014633E+03   0.1000000000000000E+01
+   0.3896732085111396E+02   0.2588577104334711E+02   0.1008699145724582E+04   0.1000000000000000E+01   0.3331537750259171E+02
+   0.2864396637138962E+02   0.9542845528343873E+03   0.1000000000000000E+01   0.3292663544927722E+02   0.4113845152706747E+02
+   0.1354550796379512E+04
+ Element:           60 0 0
+   Faces: 
+   0 0   112
+   0 0    91
+   0 0   110
+   0 0    92
+   Nodes:
+               78           63           66           53
+   Scale factors:
+       0.1000000000000000E+01   0.3896732085111396E+02   0.2588577104334711E+02   0.1008699145724582E+04   0.1000000000000000E+01
+   0.4968802565215722E+02   0.2342146686693544E+02   0.1163766446495438E+04   0.1000000000000000E+01   0.3292663544927722E+02
+   0.4113845152706747E+02   0.1354550796379512E+04   0.1000000000000000E+01   0.4445796604783275E+02   0.2702310010622879E+02
+   0.1201392067029905E+04
+ Element:           61 0 0
+   Faces: 
+   0 0    91
+   0 0    62
+   0 0    80
+   0 0    63
+   Nodes:
+               63           47           53           36
+   Scale factors:
+       0.1000000000000000E+01   0.4968802565215722E+02   0.2342146686693544E+02   0.1163766446495438E+04   0.1000000000000000E+01
+   0.4500220322747647E+02   0.3296661625374132E+02   0.1483570364373096E+04   0.1000000000000000E+01   0.4445796604783275E+02
+   0.2702310010622879E+02   0.1201392067029905E+04   0.1000000000000000E+01   0.4757162484580390E+02   0.2777132960934959E+02
+   0.1321127273645144E+04
+ Element:           62 0 0
+   Faces: 
+   0 0    62
+   0 0    34
+   0 0    55
+   0 0    35
+   Nodes:
+               47           27           36           14
+   Scale factors:
+       0.1000000000000000E+01   0.4500220322747647E+02   0.3296661625374132E+02   0.1483570364373096E+04   0.1000000000000000E+01
+   0.4164162421317124E+02   0.2671510566227239E+02   0.1112460390803510E+04   0.1000000000000000E+01   0.4757162484580390E+02
+   0.2777132960934959E+02   0.1321127273645144E+04   0.1000000000000000E+01   0.4189942414450190E+02   0.2391136868644047E+02
+   0.1001872578468730E+04
+ Element:           63 0 0
+   Faces: 
+   0 0    34
+   0 0    11
+   0 0    37
+   0 0    12
+   Nodes:
+               27           15           14            4
+   Scale factors:
+       0.1000000000000000E+01   0.4164162421317124E+02   0.2671510566227239E+02   0.1112460390803510E+04   0.1000000000000000E+01
+   0.4110710304160276E+02   0.2480148729483577E+02   0.1019517293813816E+04   0.1000000000000000E+01   0.4189942414450189E+02
+   0.2391136868644047E+02   0.1001872578468730E+04   0.1000000000000000E+01   0.3734859928517251E+02   0.2946062246292613E+02
+   0.1100312983059580E+04
+ Element:           64 0 0
+   Faces: 
+   0 0    11
+   0 0     1
+   0 0    17
+   0 0     2
+   Nodes:
+               15            6            4            1
+   Scale factors:
+       0.1000000000000000E+01   0.4110710304160275E+02   0.2480148729483577E+02   0.1019517293813816E+04   0.1000000000000000E+01
+   0.4144258858197207E+02   0.3576237036796115E+02   0.1482085201875523E+04   0.1000000000000000E+01   0.3734859928517250E+02
+   0.2946062246292613E+02   0.1100312983059580E+04   0.1000000000000000E+01   0.3406596575570176E+02   0.4237694069125295E+02
+   0.1443611410419628E+04
+ Element:           65 0 0
+   Faces: 
+   0 0     1
+   0 0    14
+   0 0    18
+   0 0     3
+   Nodes:
+                6           19            1            5
+   Scale factors:
+       0.1000000000000000E+01   0.4144258858197207E+02   0.3576237036796115E+02   0.1482085201875523E+04   0.1000000000000000E+01
+   0.4990057208038755E+02   0.3526359460742755E+02   0.1759673544521504E+04   0.1000000000000000E+01   0.3406596575570177E+02
+   0.4237694069125295E+02   0.1443611410419628E+04   0.1000000000000000E+01   0.3900096533095587E+02   0.4394629136390766E+02
+   0.1713947785907848E+04
+ Element:           66 0 0
+   Faces: 
+   0 0    14
+   0 0    38
+   0 0    41
+   0 0    15
+   Nodes:
+               19           41            5           18
+   Scale factors:
+       0.1000000000000000E+01   0.4990057208038755E+02   0.3526359460742755E+02   0.1759673544521504E+04   0.1000000000000000E+01
+   0.6897813817986560E+02   0.3755178720903863E+02   0.2590252367005976E+04   0.1000000000000000E+01   0.3900096533095587E+02
+   0.4394629136390766E+02   0.1713947785907848E+04   0.1000000000000000E+01   0.5869436940887878E+02   0.3725130783620380E+02
+   0.2186442023102007E+04
+ Element:           69 0 0
+   Faces: 
+   0 0    66
+   0 0    85
+   0 0    90
+   0 0    67
+   Nodes:
+               52           58           40           50
+   Scale factors:
+       0.1000000000000000E+01   0.5558527794829740E+02   0.3057756760690627E+02   0.1699662594412740E+04   0.1000000000000000E+01
+   0.3331537750259171E+02   0.2864396637138962E+02   0.9542845528343873E+03   0.1000000000000000E+01   0.4203966183839056E+02
+   0.3176752992054552E+02   0.1335496215300688E+04   0.1000000000000000E+01   0.5202703398216128E+02   0.2844546344875616E+02
+   0.1479933093486763E+04
+ Element:           70 0 0
+   Faces: 
+   0 0    85
+   0 0   111
+   0 0   100
+   0 0    86
+   Nodes:
+               58           66           50           65
+   Scale factors:
+       0.1000000000000000E+01   0.3331537750259171E+02   0.2864396637138962E+02   0.9542845528343873E+03   0.1000000000000000E+01
+   0.3292663544927722E+02   0.4113845152706747E+02   0.1354550796379512E+04   0.1000000000000000E+01   0.5202703398216128E+02
+   0.2844546344875616E+02   0.1479933093486763E+04   0.1000000000000000E+01   0.5590000944844467E+02   0.4123145546548550E+02
+   0.2304838750093765E+04
+ Element:           71 0 0
+   Faces: 
+   0 0   111
+   0 0    83
+   0 0    92
+   0 0    84
+   Nodes:
+               66           53           65           49
+   Scale factors:
+       0.1000000000000000E+01   0.3292663544927722E+02   0.4113845152706747E+02   0.1354550796379512E+04   0.1000000000000000E+01
+   0.4445796604783275E+02   0.2702310010622879E+02   0.1201392067029905E+04   0.1000000000000000E+01   0.5590000944844466E+02
+   0.4123145546548550E+02   0.2304838750093765E+04   0.1000000000000000E+01   0.4828714295874233E+02   0.2737828206978983E+02
+   0.1322019020268714E+04
+ Element:           72 0 0
+   Faces: 
+   0 0    83
+   0 0    51
+   0 0    63
+   0 0    52
+   Nodes:
+               53           36           49           26
+   Scale factors:
+       0.1000000000000000E+01   0.4445796604783275E+02   0.2702310010622879E+02   0.1201392067029905E+04   0.1000000000000000E+01
+   0.4757162484580390E+02   0.2777132960934959E+02   0.1321127273645144E+04   0.1000000000000000E+01   0.4828714295874233E+02
+   0.2737828206978983E+02   0.1322019020268714E+04   0.1000000000000000E+01   0.3937297332486077E+02   0.2271966337482846E+02
+   0.8945407000069373E+03
+ Element:           73 0 0
+   Faces: 
+   0 0    51
+   0 0    31
+   0 0    35
+   0 0    32
+   Nodes:
+               36           14           26           12
+   Scale factors:
+       0.1000000000000000E+01   0.4757162484580390E+02   0.2777132960934959E+02   0.1321127273645144E+04   0.1000000000000000E+01
+   0.4189942414450190E+02   0.2391136868644047E+02   0.1001872578468730E+04   0.1000000000000000E+01   0.3937297332486077E+02
+   0.2271966337482846E+02   0.8945407000069373E+03   0.1000000000000000E+01   0.2791300063773093E+02   0.3148656513206739E+02
+   0.8788845126113537E+03
+ Element:           74 0 0
+   Faces: 
+   0 0    31
+   0 0    13
+   0 0    12
+   0 0    33
+   Nodes:
+               14            4           12           13
+   Scale factors:
+       0.1000000000000000E+01   0.4189942414450189E+02   0.2391136868644047E+02   0.1001872578468730E+04   0.1000000000000000E+01
+   0.3734859928517251E+02   0.2946062246292613E+02   0.1100312983059580E+04   0.1000000000000000E+01   0.2791300063773093E+02
+   0.3148656513206739E+02   0.8788845126113537E+03   0.1000000000000000E+01   0.2433620990002531E+02   0.3861408445509079E+02
+   0.9397204643963939E+03
+ Element:           75 0 0
+   Faces: 
+   0 0    13
+   0 0     4
+   0 0     2
+   0 0     5
+   Nodes:
+                4            1           13            2
+   Scale factors:
+       0.1000000000000000E+01   0.3734859928517250E+02   0.2946062246292613E+02   0.1100312983059580E+04   0.1000000000000000E+01
+   0.3406596575570176E+02   0.4237694069125295E+02   0.1443611410419628E+04   0.1000000000000000E+01   0.2433620990002531E+02
+   0.3861408445509079E+02   0.9397204643963939E+03   0.1000000000000000E+01   0.2403100544380992E+02   0.4610873994305919E+02
+   0.1108039380578871E+04
+ Element:           76 0 0
+   Faces: 
+   0 0     4
+   0 0     8
+   0 0     3
+   0 0     6
+   Nodes:
+                1            5            2            3
+   Scale factors:
+       0.1000000000000000E+01   0.3406596575570177E+02   0.4237694069125295E+02   0.1443611410419628E+04   0.1000000000000000E+01
+   0.3900096533095587E+02   0.4394629136390766E+02   0.1713947785907848E+04   0.1000000000000000E+01   0.2403100544380992E+02
+   0.4610873994305919E+02   0.1108039380578871E+04   0.1000000000000000E+01   0.2617197650538761E+02   0.4787144267732513E+02
+   0.1252890273029963E+04
+ Element:           77 0 0
+   Faces: 
+   0 0     8
+   0 0    19
+   0 0    15
+   0 0     9
+   Nodes:
+                5           18            3            7
+   Scale factors:
+       0.1000000000000000E+01   0.3900096533095587E+02   0.4394629136390766E+02   0.1713947785907848E+04   0.1000000000000000E+01
+   0.5869436940887878E+02   0.3725130783620380E+02   0.2186442023102007E+04   0.1000000000000000E+01   0.2617197650538761E+02
+   0.4787144267732513E+02   0.1252890273029963E+04   0.1000000000000000E+01   0.3556264799466446E+02   0.4368260874133450E+02
+   0.1553469238156732E+04
+ Element:           78 0 0
+   Faces: 
+   0 0    10
+   0 0    21
+   0 0     9
+   0 0    43
+   Nodes:
+                3            7           20           21
+   Scale factors:
+       0.1000000000000000E+01   0.2617197650538761E+02   0.4787144267732513E+02   0.1252890273029963E+04   0.1000000000000000E+01
+   0.3556264799466446E+02   0.4368260874133450E+02   0.1553469238156732E+04   0.1000000000000000E+01   0.1408750079111388E+02
+   0.5849713459520568E+02   0.8240784298878549E+03   0.1000000000000000E+01   0.1765236405313829E+02   0.5753890297928495E+02
+   0.1015697662608541E+04
+ Element:           81 0 0
+   Faces: 
+   0 0    64
+   0 0    78
+   0 0    67
+   0 0    65
+   Nodes:
+               40           50           37           46
+   Scale factors:
+       0.1000000000000000E+01   0.4203966183839056E+02   0.3176752992054552E+02   0.1335496215300688E+04   0.1000000000000000E+01
+   0.5202703398216128E+02   0.2844546344875616E+02   0.1479933093486763E+04   0.1000000000000000E+01   0.2578181867423045E+02
+   0.5121023746129738E+02   0.1320293056491453E+04   0.1000000000000000E+01   0.4728725703414516E+02   0.4714931488855378E+02
+   0.2229561772118890E+04
+ Element:           82 0 0
+   Faces: 
+   0 0    78
+   0 0   104
+   0 0    86
+   0 0    77
+   Nodes:
+               50           65           46           60
+   Scale factors:
+       0.1000000000000000E+01   0.5202703398216128E+02   0.2844546344875616E+02   0.1479933093486763E+04   0.1000000000000000E+01
+   0.5590000944844467E+02   0.4123145546548550E+02   0.2304838750093765E+04   0.1000000000000000E+01   0.4728725703414516E+02
+   0.4714931488855378E+02   0.2229561772118890E+04   0.1000000000000000E+01   0.5431234476968253E+02   0.5267063920244817E+02
+   0.2860665915602921E+04
+ Element:           83 0 0
+   Faces: 
+   0 0   104
+   0 0    71
+   0 0    84
+   0 0    70
+   Nodes:
+               65           49           60           43
+   Scale factors:
+       0.1000000000000000E+01   0.5590000944844466E+02   0.4123145546548550E+02   0.2304838750093765E+04   0.1000000000000000E+01
+   0.4828714295874233E+02   0.2737828206978983E+02   0.1322019020268714E+04   0.1000000000000000E+01   0.5431234476968253E+02
+   0.5267063920244817E+02   0.2860665915602921E+04   0.1000000000000000E+01   0.4243202007992504E+02   0.3658232378219117E+02
+   0.1552261897296255E+04
+ Element:           84 0 0
+   Faces: 
+   0 0    71
+   0 0    53
+   0 0    52
+   0 0    56
+   Nodes:
+               49           26           43           32
+   Scale factors:
+       0.1000000000000000E+01   0.4828714295874233E+02   0.2737828206978983E+02   0.1322019020268714E+04   0.1000000000000000E+01
+   0.3937297332486077E+02   0.2271966337482846E+02   0.8945407000069371E+03   0.1000000000000000E+01   0.4243202007992504E+02
+   0.3658232378219117E+02   0.1552261897296255E+04   0.1000000000000000E+01   0.3182196078329705E+02   0.3239378885491580E+02
+   0.1030833878563536E+04
+ Element:           85 0 0
+   Faces: 
+   0 0    53
+   0 0    30
+   0 0    32
+   0 0    29
+   Nodes:
+               26           12           32           11
+   Scale factors:
+       0.1000000000000000E+01   0.3937297332486077E+02   0.2271966337482846E+02   0.8945407000069371E+03   0.1000000000000000E+01
+   0.2791300063773093E+02   0.3148656513206739E+02   0.8788845126113536E+03   0.1000000000000000E+01   0.3182196078329706E+02
+   0.3239378885491580E+02   0.1030833878563536E+04   0.1000000000000000E+01   0.2580722281476705E+02   0.4577231898184266E+02
+   0.1181256434713005E+04
+ Element:           86 0 0
+   Faces: 
+   0 0    30
+   0 0    27
+   0 0    33
+   0 0    26
+   Nodes:
+               12           13           11            9
+   Scale factors:
+       0.1000000000000000E+01   0.2791300063773093E+02   0.3148656513206739E+02   0.8788845126113536E+03   0.1000000000000000E+01
+   0.2433620990002531E+02   0.3861408445509080E+02   0.9397204643963940E+03   0.1000000000000000E+01   0.2580722281476705E+02
+   0.4577231898184266E+02   0.1181256434713005E+04   0.1000000000000000E+01   0.2166497968034707E+02   0.4973573053823522E+02
+   0.1077523591498083E+04
+ Element:           87 0 0
+   Faces: 
+   0 0    27
+   0 0     7
+   0 0     5
+   0 0    24
+   Nodes:
+               13            2            9            8
+   Scale factors:
+       0.1000000000000000E+01   0.2433620990002531E+02   0.3861408445509080E+02   0.9397204643963940E+03   0.1000000000000000E+01
+   0.2403100544380992E+02   0.4610873994305919E+02   0.1108039380578871E+04   0.1000000000000000E+01   0.2166497968034707E+02
+   0.4973573053823522E+02   0.1077523591498083E+04   0.1000000000000000E+01   0.1448974071669543E+02   0.5361073009230603E+02
+   0.7768055786702554E+03
+ Element:           88 0 0
+   Faces: 
+   0 0     7
+   0 0    10
+   0 0     6
+   0 0    22
+   Nodes:
+                2            3            8           20
+   Scale factors:
+       0.1000000000000000E+01   0.2403100544380992E+02   0.4610873994305919E+02   0.1108039380578871E+04   0.1000000000000000E+01
+   0.2617197650538761E+02   0.4787144267732513E+02   0.1252890273029963E+04   0.1000000000000000E+01   0.1448974071669543E+02
+   0.5361073009230603E+02   0.7768055786702554E+03   0.1000000000000000E+01   0.1408750079111388E+02   0.5849713459520568E+02
+   0.8240784298878549E+03

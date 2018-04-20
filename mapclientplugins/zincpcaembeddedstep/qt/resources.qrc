@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="zincpcaembeddedstep">
+    <file>images/logo.png</file>
+  </qresource>
+</RCC>

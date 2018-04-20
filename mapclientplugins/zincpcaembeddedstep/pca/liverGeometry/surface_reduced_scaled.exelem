@@ -1,0 +1,819 @@
+ Group name: surface
+ Shape. Dimension=1, line
+ #Scale factor sets=0
+ #Nodes=0
+ #Fields=0
+ Element: 0 0 1
+ Element: 0 0 2
+ Element: 0 0 3
+ Element: 0 0 4
+ Element: 0 0 5
+ Element: 0 0 6
+ Element: 0 0 7
+ Element: 0 0 8
+ Element: 0 0 9
+ Element: 0 0 10
+ Element: 0 0 11
+ Element: 0 0 12
+ Element: 0 0 13
+ Element: 0 0 14
+ Element: 0 0 15
+ Element: 0 0 16
+ Element: 0 0 17
+ Element: 0 0 18
+ Element: 0 0 19
+ Element: 0 0 20
+ Element: 0 0 21
+ Element: 0 0 22
+ Element: 0 0 23
+ Element: 0 0 24
+ Element: 0 0 25
+ Element: 0 0 26
+ Element: 0 0 27
+ Element: 0 0 28
+ Element: 0 0 29
+ Element: 0 0 30
+ Element: 0 0 31
+ Element: 0 0 32
+ Element: 0 0 33
+ Element: 0 0 34
+ Element: 0 0 35
+ Element: 0 0 36
+ Shape. Dimension=2, line*line
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 1 0 0
+ Faces:
+ 0 0 31
+ 0 0 36
+ 0 0 0
+ 0 0 32
+ Nodes:
+ 101 79 96
+ Scale factors:
+ 1.000000000000000e+000 1.000000000000000e+000 5.621707115933260e+001 5.621707115933260e+001 1.000000000000000e+000
+ 1.000000000000000e+000 4.072806594939205e+001 4.072806594939205e+001 1.000000000000000e+000 4.851957499571373e+001
+ 5.873172412656136e+001 2.849638293386263e+003 1.000000000000000e+000 4.783880377063691e+001 5.116803339534528e+001
+ 2.447817508929319e+003
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=4
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 2 0 0
+ Faces:
+ 0 0 24
+ 0 0 35
+ 0 0 32
+ 0 0 25
+ Nodes:
+ 79 96 57 86
+ Scale factors:
+ 1.000000000000000e+000 4.851957499571373e+001 5.873172412656136e+001 2.849638293386263e+003 1.000000000000000e+000
+ 4.783880377063691e+001 5.116803339534528e+001 2.447817508929319e+003 1.000000000000000e+000 1.106546239568988e+002
+ 6.433227917593869e+001 7.118664160503729e+003 1.000000000000000e+000 1.053338612839925e+002 5.654394407059675e+001
+ 5.955991961182067e+003
+ Element: 3 0 0
+ Faces:
+ 0 0 17
+ 0 0 24
+ 0 0 26
+ 0 0 18
+ Nodes:
+ 59 79 35 57
+ Scale factors:
+ 1.000000000000000e+000 5.152976595188760e+001 8.168839460290664e+001 4.209383854873217e+003 1.000000000000000e+000
+ 4.851957499571372e+001 5.873172412656136e+001 2.849638293386263e+003 1.000000000000000e+000 1.033555199339069e+002
+ 7.579100269333272e+001 7.833418489681542e+003 1.000000000000000e+000 1.106546239568988e+002 6.433227917593869e+001
+ 7.118664160503729e+003
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 4 0 0
+ Faces:
+ 0 0 36
+ 0 0 33
+ 0 0 0
+ 0 0 34
+ Nodes:
+ 101 96 83
+ Scale factors:
+ 1.000000000000000e+000 1.000000000000000e+000 4.072806594939205e+001 4.072806594939205e+001 1.000000000000000e+000
+ 1.000000000000000e+000 4.468175639864121e+001 4.468175639864121e+001 1.000000000000000e+000 4.783880377063691e+001
+ 5.116803339534528e+001 2.447817508929319e+003 1.000000000000000e+000 5.084899472681080e+001 5.375898980299569e+001
+ 2.733590589011203e+003
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=4
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 5 0 0
+ Faces:
+ 0 0 35
+ 0 0 22
+ 0 0 34
+ 0 0 23
+ Nodes:
+ 96 83 86 56
+ Scale factors:
+ 1.000000000000000e+000 4.783880377063691e+001 5.116803339534528e+001 2.447817508929319e+003 1.000000000000000e+000
+ 5.084899472681080e+001 5.375898980299569e+001 2.733590589011203e+003 1.000000000000000e+000 1.053338612839925e+002
+ 5.654394407059675e+001 5.955991961182067e+003 1.000000000000000e+000 9.803475726100059e+001 6.346829117937608e+001
+ 6.222098519540639e+003
+ Element: 6 0 0
+ Faces:
+ 0 0 30
+ 0 0 20
+ 0 0 23
+ 0 0 21
+ Nodes:
+ 86 56 66 36
+ Scale factors:
+ 1.000000000000000e+000 1.053338612839925e+002 5.654394407059675e+001 5.955991961182067e+003 1.000000000000000e+000
+ 9.803475726100059e+001 6.346829117937608e+001 6.222098519540639e+003 1.000000000000000e+000 1.115390707594943e+002
+ 6.472024094107826e+001 7.218835533898446e+003 1.000000000000000e+000 9.459443339422171e+001 5.400140548872701e+001
+ 5.108232354697746e+003
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 7 0 0
+ Faces:
+ 0 0 33
+ 0 0 27
+ 0 0 0
+ 0 0 28
+ Nodes:
+ 101 83 59
+ Scale factors:
+ 1.000000000000000e+000 1.000000000000000e+000 4.468175639864121e+001 4.468175639864121e+001 1.000000000000000e+000
+ 1.000000000000000e+000 7.980902626686174e+001 7.980902626686174e+001 1.000000000000000e+000 5.084899472681080e+001
+ 5.375898980299569e+001 2.733590589011203e+003 1.000000000000000e+000 5.152976595188761e+001 8.168839460290664e+001
+ 4.209383854873218e+003
+ Element: 8 0 0
+ Faces:
+ 0 0 27
+ 0 0 31
+ 0 0 0
+ 0 0 26
+ Nodes:
+ 101 59 79
+ Scale factors:
+ 1.000000000000000e+000 1.000000000000000e+000 7.980902626686174e+001 7.980902626686174e+001 1.000000000000000e+000
+ 1.000000000000000e+000 5.621707115933260e+001 5.621707115933260e+001 1.000000000000000e+000 5.152976595188760e+001
+ 8.168839460290664e+001 4.209383854873217e+003 1.000000000000000e+000 4.851957499571372e+001 5.873172412656136e+001
+ 2.849638293386263e+003
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=4
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 9 0 0
+ Faces:
+ 0 0 22
+ 0 0 17
+ 0 0 28
+ 0 0 19
+ Nodes:
+ 83 59 56 35
+ Scale factors:
+ 1.000000000000000e+000 5.084899472681080e+001 5.375898980299569e+001 2.733590589011203e+003 1.000000000000000e+000
+ 5.152976595188761e+001 8.168839460290664e+001 4.209383854873218e+003 1.000000000000000e+000 9.803475726100059e+001
+ 6.346829117937608e+001 6.222098519540639e+003 1.000000000000000e+000 1.033555199339069e+002 7.579100269333272e+001
+ 7.833418489681542e+003
+ Element: 10 0 0
+ Faces:
+ 0 0 20
+ 0 0 1
+ 0 0 19
+ 0 0 2
+ Nodes:
+ 56 35 36 1
+ Scale factors:
+ 1.000000000000000e+000 9.803475726100059e+001 6.346829117937608e+001 6.222098519540639e+003 1.000000000000000e+000
+ 1.033555199339069e+002 7.579100269333272e+001 7.833418489681542e+003 1.000000000000000e+000 9.459443339422171e+001
+ 5.400140548872701e+001 5.108232354697746e+003 1.000000000000000e+000 8.746710528527916e+001 7.942144969960745e+001
+ 6.946764302785068e+003
+ Element: 11 0 0
+ Faces:
+ 0 0 8
+ 0 0 30
+ 0 0 25
+ 0 0 9
+ Nodes:
+ 57 86 18 66
+ Scale factors:
+ 1.000000000000000e+000 1.106546239568988e+002 6.433227917593869e+001 7.118664160503729e+003 1.000000000000000e+000
+ 1.053338612839925e+002 5.654394407059675e+001 5.955991961182067e+003 1.000000000000000e+000 1.044117426505517e+002
+ 7.713733593274253e+001 8.054043668158671e+003 1.000000000000000e+000 1.115390707594943e+002 6.472024094107826e+001
+ 7.218835533898447e+003
+ Element: 12 0 0
+ Faces:
+ 0 0 10
+ 0 0 29
+ 0 0 9
+ 0 0 11
+ Nodes:
+ 18 66 21 60
+ Scale factors:
+ 1.000000000000000e+000 1.044117426505517e+002 7.713733593274253e+001 8.054043668158671e+003 1.000000000000000e+000
+ 1.115390707594943e+002 6.472024094107826e+001 7.218835533898447e+003 1.000000000000000e+000 6.693760199875399e+001
+ 7.964427110413247e+001 5.331196520649282e+003 1.000000000000000e+000 9.385810368374968e+001 7.512910854825194e+001
+ 7.051475659789514e+003
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 13 0 0
+ Faces:
+ 0 0 12
+ 0 0 13
+ 0 0 11
+ 0 0 0
+ Nodes:
+ 21 60 23
+ Scale factors:
+ 1.000000000000000e+000 6.693760199875399e+001 7.964427110413247e+001 5.331196520649282e+003 1.000000000000000e+000
+ 9.385810368374968e+001 7.512910854825192e+001 7.051475659789513e+003 1.000000000000000e+000 1.000000000000000e+000
+ 7.243205160086714e+001 7.243205160086714e+001 1.000000000000000e+000 1.000000000000000e+000 7.229762251424232e+001
+ 7.229762251424232e+001
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=4
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 14 0 0
+ Faces:
+ 0 0 29
+ 0 0 15
+ 0 0 21
+ 0 0 16
+ Nodes:
+ 66 36 60 32
+ Scale factors:
+ 1.000000000000000e+000 1.115390707594943e+002 6.472024094107826e+001 7.218835533898446e+003 1.000000000000000e+000
+ 9.459443339422171e+001 5.400140548872700e+001 5.108232354697745e+003 1.000000000000000e+000 9.385810368374968e+001
+ 7.512910854825194e+001 7.051475659789514e+003 1.000000000000000e+000 6.487031534676052e+001 4.169054217686880e+001
+ 2.704478617990899e+003
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 15 0 0
+ Faces:
+ 0 0 13
+ 0 0 14
+ 0 0 16
+ 0 0 0
+ Nodes:
+ 60 32 23
+ Scale factors:
+ 1.000000000000000e+000 9.385810368374968e+001 7.512910854825192e+001 7.051475659789513e+003 1.000000000000000e+000
+ 6.487031534676052e+001 4.169054217686880e+001 2.704478617990899e+003 1.000000000000000e+000 1.000000000000000e+000
+ 7.229762251424232e+001 7.229762251424232e+001 1.000000000000000e+000 1.000000000000000e+000 3.947863252768558e+001
+ 3.947863252768558e+001
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=4
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   4. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 16 0 0
+ Faces:
+ 0 0 1
+ 0 0 8
+ 0 0 18
+ 0 0 3
+ Nodes:
+ 35 57 1 18
+ Scale factors:
+ 1.000000000000000e+000 1.033555199339069e+002 7.579100269333272e+001 7.833418489681542e+003 1.000000000000000e+000
+ 1.106546239568988e+002 6.433227917593869e+001 7.118664160503729e+003 1.000000000000000e+000 8.746710528527916e+001
+ 7.942144969960745e+001 6.946764302785068e+003 1.000000000000000e+000 1.044117426505517e+002 7.713733593274253e+001
+ 8.054043668158670e+003
+ Element: 17 0 0
+ Faces:
+ 0 0 4
+ 0 0 10
+ 0 0 3
+ 0 0 5
+ Nodes:
+ 1 18 8 21
+ Scale factors:
+ 1.000000000000000e+000 8.746710528527916e+001 7.942144969960745e+001 6.946764302785068e+003 1.000000000000000e+000
+ 1.044117426505517e+002 7.713733593274253e+001 8.054043668158670e+003 1.000000000000000e+000 3.794981366176484e+001
+ 7.918054790415042e+001 3.004887038598953e+003 1.000000000000000e+000 6.693760199875399e+001 7.964427110413247e+001
+ 5.331196520649282e+003
+ Element: 18 0 0
+ Faces:
+ 0 0 15
+ 0 0 4
+ 0 0 2
+ 0 0 6
+ Nodes:
+ 36 1 32 8
+ Scale factors:
+ 1.000000000000000e+000 9.459443339422171e+001 5.400140548872700e+001 5.108232354697745e+003 1.000000000000000e+000
+ 8.746710528527916e+001 7.942144969960745e+001 6.946764302785068e+003 1.000000000000000e+000 6.487031534676052e+001
+ 4.169054217686880e+001 2.704478617990899e+003 1.000000000000000e+000 3.794981366176484e+001 7.918054790415042e+001
+ 3.004887038598953e+003
+ #Scale factor sets=1
+ c.Hermite*c.Hermite, #Scale factors=16
+ #Nodes=3
+ #Fields=1
+ 1) coordinates, coordinate, rectangular cartesian, #Components=3
+ x. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ y. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ z. c.Hermite*c.Hermite, no modify, standard node based.
+   #Nodes=4
+   1. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 1 2 3 4
+   2. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 5 6 7 8
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 9 10 11 12
+   3. #Values=4
+     Value labels: value d/ds1 d/ds2 d2/ds1ds2
+     Scale factor indices: 13 14 15 16
+ Element: 19 0 0
+ Faces:
+ 0 0 14
+ 0 0 7
+ 0 0 6
+ 0 0 0
+ Nodes:
+ 32 8 23
+ Scale factors:
+ 1.000000000000000e+000 6.487031534676052e+001 4.169054217686880e+001 2.704478617990899e+003 1.000000000000000e+000
+ 3.794981366176484e+001 7.918054790415042e+001 3.004887038598953e+003 1.000000000000000e+000 1.000000000000000e+000
+ 3.947863252768558e+001 3.947863252768558e+001 1.000000000000000e+000 1.000000000000000e+000 6.753243885679981e+001
+ 6.753243885679981e+001
+ Element: 20 0 0
+ Faces:
+ 0 0 7
+ 0 0 12
+ 0 0 5
+ 0 0 0
+ Nodes:
+ 8 21 23
+ Scale factors:
+ 1.000000000000000e+000 3.794981366176484e+001 7.918054790415042e+001 3.004887038598953e+003 1.000000000000000e+000
+ 6.693760199875399e+001 7.964427110413247e+001 5.331196520649282e+003 1.000000000000000e+000 1.000000000000000e+000
+ 6.753243885679981e+001 6.753243885679981e+001 1.000000000000000e+000 1.000000000000000e+000 7.243205160086714e+001
+ 7.243205160086714e+001
